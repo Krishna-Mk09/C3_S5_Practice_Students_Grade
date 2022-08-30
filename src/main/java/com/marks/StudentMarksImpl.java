@@ -9,5 +9,5 @@
 package com.marks;
 
 public class StudentMarksImpl {
-    StudentMarks student = new StudentMarks();
+
 }
